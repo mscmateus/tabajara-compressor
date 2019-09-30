@@ -82,9 +82,20 @@ def descompacta(arquivo, nomeSaida):
     arquivoSaida.close()
     print("Descompactação concluida!")
 
-print("    Tabajara Compressor 2019, todos os direitos reservados\n\n"
-      "Desenvolvido para a diciplina de Sistemas Multimídia do Curso de\n"
-      "Bacharalado em Sistemas de Informação da Universidade Federal do Acre")
+print("Universidade Federal do Acre"
+"Centro de Ciências Exatas e Tecnológicas\n"
+" Bacharelado em sistemas de Informação\n"
+"        Sistemas Multimídia\n"
+"\n"
+"\n"
+"     Gabriel Figueiredo Bezerra\n"
+"        Mateus da Silva Costa\n"
+"\n"
+"\n"
+"\n"
+"\n"
+"             Rio Branco\n"
+"          Setembro de 2019\n")
 
 
 entrada = input("<tabja> ")
