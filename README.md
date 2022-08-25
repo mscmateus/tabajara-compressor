@@ -1,4 +1,4 @@
-# tabajara-compressor
+# Tabajara Compressor
 
 Projeto apresentado a diciplina de Sistemas Multimídias do curso de Sistemas de Informação da Universidade Federal do Acre para compossição parcial da nota da N1, consistem em um simples programa em python para compressão de texto.
 
